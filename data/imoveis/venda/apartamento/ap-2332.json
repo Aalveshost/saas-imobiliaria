@@ -1,0 +1,39 @@
+{
+  "id": "ap-2332",
+  "slug": "apto-com-suite-vila-olimpia-ap2332",
+  "titulo": "Apto com suite em Vila Olímpia",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 150,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "ap-2332",
+  "imagem": "casa 003.webp",
+  "cidade": "Campinas",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "906",
+    "complemento": "Apt 655",
+    "bairro": "Vila Olímpia",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000005390"
+  },
+  "comodidades": [
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:34:38.294Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ch-3381",
+  "slug": "casa-de-campo-vila-olimpia-ch3381",
+  "titulo": "Casa de campo em Vila Olímpia",
+  "descricao": "Propriedade com área verde extensa",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 10000,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 1,
+  "img": "ch-3381",
+  "imagem": "ap001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "861",
+    "complemento": "Apt 524",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000008849"
+  },
+  "comodidades": [
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

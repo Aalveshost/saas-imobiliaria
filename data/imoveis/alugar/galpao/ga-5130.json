@@ -1,0 +1,39 @@
+{
+  "id": "ga-5130",
+  "slug": "imovel-consolacao-ga5130",
+  "titulo": "Imóvel em Consolação",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 30000,
+  "tipo": "alugar",
+  "cat": "galpao",
+  "area": 120,
+  "quartos": 3,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "ga-5130",
+  "imagem": "ap002.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "466",
+    "complemento": "Apt 486",
+    "bairro": "Consolação",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000001722"
+  },
+  "comodidades": [
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

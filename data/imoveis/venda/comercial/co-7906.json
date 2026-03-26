@@ -1,0 +1,39 @@
+{
+  "id": "co-7906",
+  "slug": "loja-itaim-co7906",
+  "titulo": "Loja em Itaim",
+  "descricao": "Loja com vitrine ampla e acessibilidade",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "comercial",
+  "area": 200,
+  "quartos": 0,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "co-7906",
+  "imagem": "ap002.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "790",
+    "complemento": "",
+    "bairro": "Itaim",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000002514"
+  },
+  "comodidades": [
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

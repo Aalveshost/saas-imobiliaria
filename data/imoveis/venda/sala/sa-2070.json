@@ -1,0 +1,42 @@
+{
+  "id": "sa-2070",
+  "slug": "imovel-itaim-sa2070",
+  "titulo": "Imóvel em Itaim",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 750000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 85,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "sa-2070",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "835",
+    "complemento": "",
+    "bairro": "Itaim",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007230"
+  },
+  "comodidades": [
+    "Segurança",
+    "Área verde",
+    "Academia",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.306Z",
+  "atualizadoEm": "2026-03-26T02:34:38.306Z"
+}

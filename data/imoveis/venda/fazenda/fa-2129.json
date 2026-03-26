@@ -1,0 +1,39 @@
+{
+  "id": "fa-2129",
+  "slug": "fazenda-de-grande-area-pinheiros-fa2129",
+  "titulo": "Fazenda de grande área em Pinheiros",
+  "descricao": "Propriedade rural com ótimo potencial",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 100000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "fa-2129",
+  "imagem": "ap003.jpg",
+  "cidade": "Campinas",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "903",
+    "complemento": "Apt 21",
+    "bairro": "Pinheiros",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000002275"
+  },
+  "comodidades": [
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

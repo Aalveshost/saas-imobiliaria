@@ -1,0 +1,39 @@
+{
+  "id": "ki-8906",
+  "slug": "studio-moema-ki8906",
+  "titulo": "Studio em Moema",
+  "descricao": "Unidade pronta para investimento",
+  "preco": 200000,
+  "tipo": "venda",
+  "cat": "kitnet",
+  "area": 30,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "ki-8906",
+  "imagem": "casa001.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "449",
+    "complemento": "Apt 712",
+    "bairro": "Moema",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "0000028"
+  },
+  "comodidades": [
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

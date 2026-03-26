@@ -1,0 +1,40 @@
+{
+  "id": "sa-5716",
+  "slug": "imovel-pinheiros-sa5716",
+  "titulo": "Imóvel em Pinheiros",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 1200000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 60,
+  "quartos": 4,
+  "banheiros": 1,
+  "vagas": 3,
+  "img": "sa-5716",
+  "imagem": "casa 003.webp",
+  "cidade": "Campinas",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "219",
+    "complemento": "",
+    "bairro": "Pinheiros",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000005186"
+  },
+  "comodidades": [
+    "Academia",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.305Z",
+  "atualizadoEm": "2026-03-26T02:34:38.305Z"
+}

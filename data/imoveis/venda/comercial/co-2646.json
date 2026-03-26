@@ -1,0 +1,41 @@
+{
+  "id": "co-2646",
+  "slug": "loja-centro-co2646",
+  "titulo": "Loja em Centro",
+  "descricao": "Loja com vitrine ampla e acessibilidade",
+  "preco": 500000,
+  "tipo": "venda",
+  "cat": "comercial",
+  "area": 80,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "co-2646",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "855",
+    "complemento": "Apt 645",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "00000736"
+  },
+  "comodidades": [
+    "Elevador",
+    "Quadra",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

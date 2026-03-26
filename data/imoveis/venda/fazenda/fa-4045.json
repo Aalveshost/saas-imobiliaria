@@ -1,0 +1,39 @@
+{
+  "id": "fa-4045",
+  "slug": "sitio-itaim-fa4045",
+  "titulo": "Sítio em Itaim",
+  "descricao": "Propriedade rural com ótimo potencial",
+  "preco": 10000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 200000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "fa-4045",
+  "imagem": "ap002.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "122",
+    "complemento": "Apt 559",
+    "bairro": "Itaim",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000006615"
+  },
+  "comodidades": [
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

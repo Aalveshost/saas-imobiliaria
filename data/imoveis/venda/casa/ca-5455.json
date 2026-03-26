@@ -1,0 +1,39 @@
+{
+  "id": "ca-5455",
+  "slug": "sobrado-itaim-ca5455",
+  "titulo": "Sobrado em Itaim",
+  "descricao": "Imóvel pronto para morar com acabamento completo",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "casa",
+  "area": 150,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ca-5455",
+  "imagem": "ap003.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "857",
+    "complemento": "",
+    "bairro": "Itaim",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000007819"
+  },
+  "comodidades": [
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

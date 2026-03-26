@@ -1,0 +1,41 @@
+{
+  "id": "ga-2614",
+  "slug": "imovel-bela-vista-ga2614",
+  "titulo": "Imóvel em Bela Vista",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 750000,
+  "tipo": "venda",
+  "cat": "galpao",
+  "area": 100,
+  "quartos": 1,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ga-2614",
+  "imagem": "ap002.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "416",
+    "complemento": "Apt 102",
+    "bairro": "Bela Vista",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000006141"
+  },
+  "comodidades": [
+    "Garagem",
+    "Segurança",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

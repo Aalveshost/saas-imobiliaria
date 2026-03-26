@@ -1,0 +1,40 @@
+{
+  "id": "te-9189",
+  "slug": "lote-urbanizado-moema-te9189",
+  "titulo": "Lote urbanizado em Moema",
+  "descricao": "Terreno bem localizado para construção",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 2000,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-9189",
+  "imagem": "casa 002.jpeg",
+  "cidade": "Guarulhos",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "599",
+    "complemento": "Apt 757",
+    "bairro": "Moema",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000002610"
+  },
+  "comodidades": [
+    "Segurança",
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.298Z",
+  "atualizadoEm": "2026-03-26T02:34:38.298Z"
+}

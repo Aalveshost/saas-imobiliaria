@@ -1,0 +1,40 @@
+{
+  "id": "ga-8245",
+  "slug": "imovel-consolacao-ga8245",
+  "titulo": "Imóvel em Consolação",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 950000,
+  "tipo": "venda",
+  "cat": "galpao",
+  "area": 180,
+  "quartos": 3,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "ga-8245",
+  "imagem": "ap005.jpg",
+  "cidade": "Campinas",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "708",
+    "complemento": "Apt 396",
+    "bairro": "Consolação",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "00000123"
+  },
+  "comodidades": [
+    "Quadra",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

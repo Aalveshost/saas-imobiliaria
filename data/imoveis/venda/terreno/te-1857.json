@@ -1,0 +1,39 @@
+{
+  "id": "te-1857",
+  "slug": "terreno-plano-moema-te1857",
+  "titulo": "Terreno plano em Moema",
+  "descricao": "Terreno bem localizado para construção",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 800,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-1857",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "784",
+    "complemento": "Apt 578",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000008661"
+  },
+  "comodidades": [
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.297Z",
+  "atualizadoEm": "2026-03-26T02:34:38.297Z"
+}

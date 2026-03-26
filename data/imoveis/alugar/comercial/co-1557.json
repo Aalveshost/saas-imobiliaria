@@ -1,0 +1,40 @@
+{
+  "id": "co-1557",
+  "slug": "sala-comercial-vila-mariana-co1557",
+  "titulo": "Sala comercial em Vila Mariana",
+  "descricao": "Sala comercial em zona de alto fluxo",
+  "preco": 10000,
+  "tipo": "alugar",
+  "cat": "comercial",
+  "area": 80,
+  "quartos": 0,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "co-1557",
+  "imagem": "casa 003.webp",
+  "cidade": "São Paulo",
+  "bairro": "Vila Mariana",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "691",
+    "complemento": "",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "00000352"
+  },
+  "comodidades": [
+    "Garagem",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

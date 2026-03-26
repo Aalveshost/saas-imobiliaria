@@ -1,0 +1,40 @@
+{
+  "id": "fa-9401",
+  "slug": "propriedade-rural-itaim-fa9401",
+  "titulo": "Propriedade rural em Itaim",
+  "descricao": "Fazenda com infraestrutura completa",
+  "preco": 10000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 50000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "fa-9401",
+  "imagem": "ap004.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "855",
+    "complemento": "Apt 551",
+    "bairro": "Itaim",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "00000142"
+  },
+  "comodidades": [
+    "Academia",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

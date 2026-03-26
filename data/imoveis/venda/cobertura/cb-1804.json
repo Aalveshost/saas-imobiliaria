@@ -1,0 +1,41 @@
+{
+  "id": "cb-1804",
+  "slug": "penthouse-vila-mariana-cb1804",
+  "titulo": "Penthouse em Vila Mariana",
+  "descricao": "Cobertura duplex com terraço amplo",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 300,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 3,
+  "img": "cb-1804",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Mariana",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "470",
+    "complemento": "",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009165"
+  },
+  "comodidades": [
+    "Piscina",
+    "Elevador",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

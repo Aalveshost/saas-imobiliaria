@@ -1,0 +1,39 @@
+{
+  "id": "te-9332",
+  "slug": "area-para-construcao-centro-te9332",
+  "titulo": "Área para construção em Centro",
+  "descricao": "Terreno bem localizado para construção",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 500,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-9332",
+  "imagem": "casa001.jpg",
+  "cidade": "Campinas",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "515",
+    "complemento": "Apt 872",
+    "bairro": "Centro",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000007021"
+  },
+  "comodidades": [
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.297Z",
+  "atualizadoEm": "2026-03-26T02:34:38.297Z"
+}

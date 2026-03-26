@@ -1,0 +1,40 @@
+{
+  "id": "ca-1820",
+  "slug": "casa-com-piscina-centro-ca1820",
+  "titulo": "Casa com piscina em Centro",
+  "descricao": "Residência bem estruturada em condomínio fechado",
+  "preco": 2500000,
+  "tipo": "alugar",
+  "cat": "casa",
+  "area": 500,
+  "quartos": 3,
+  "banheiros": 1,
+  "vagas": 3,
+  "img": "ca-1820",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "182",
+    "complemento": "",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000004850"
+  },
+  "comodidades": [
+    "Academia",
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

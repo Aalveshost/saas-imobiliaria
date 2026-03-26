@@ -1,0 +1,40 @@
+{
+  "id": "fa-6029",
+  "slug": "fazenda-de-grande-area-vila-mariana-fa6029",
+  "titulo": "Fazenda de grande área em Vila Mariana",
+  "descricao": "Propriedade rural com ótimo potencial",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 500000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "fa-6029",
+  "imagem": "ap001.jpg",
+  "cidade": "Campinas",
+  "bairro": "Vila Mariana",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "800",
+    "complemento": "",
+    "bairro": "Vila Mariana",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000006867"
+  },
+  "comodidades": [
+    "Quadra",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

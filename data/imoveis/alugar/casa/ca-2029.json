@@ -1,0 +1,40 @@
+{
+  "id": "ca-2029",
+  "slug": "casa-reformada-vila-madalena-ca2029",
+  "titulo": "Casa reformada em Vila Madalena",
+  "descricao": "Residência bem estruturada em condomínio fechado",
+  "preco": 3500000,
+  "tipo": "alugar",
+  "cat": "casa",
+  "area": 250,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "ca-2029",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "258",
+    "complemento": "Apt 677",
+    "bairro": "Vila Madalena",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000008658"
+  },
+  "comodidades": [
+    "Segurança",
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:34:38.294Z"
+}

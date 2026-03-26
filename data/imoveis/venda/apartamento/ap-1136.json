@@ -1,0 +1,40 @@
+{
+  "id": "ap-1136",
+  "slug": "apartamento-3-quartos-vila-olimpia-ap1136",
+  "titulo": "Apartamento 3 quartos em Vila Olímpia",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 1200000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 120,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ap-1136",
+  "imagem": "ap003.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "770",
+    "complemento": "Apt 567",
+    "bairro": "Vila Olímpia",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000002916"
+  },
+  "comodidades": [
+    "Quadra",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": true,
+  "criadoEm": "2026-03-26T02:34:38.293Z",
+  "atualizadoEm": "2026-03-26T02:34:38.293Z"
+}

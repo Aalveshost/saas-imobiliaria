@@ -1,0 +1,41 @@
+{
+  "id": "ap-1531",
+  "slug": "apto-com-suite-vila-olimpia-ap1531",
+  "titulo": "Apto com suite em Vila Olímpia",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 100,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ap-1531",
+  "imagem": "casa 003.webp",
+  "cidade": "São Paulo",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "420",
+    "complemento": "Apt 686",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000008782"
+  },
+  "comodidades": [
+    "Elevador",
+    "Academia",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:34:38.294Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ga-8987",
+  "slug": "imovel-moema-ga8987",
+  "titulo": "Imóvel em Moema",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "galpao",
+  "area": 60,
+  "quartos": 4,
+  "banheiros": 3,
+  "vagas": 1,
+  "img": "ga-8987",
+  "imagem": "ap004.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "238",
+    "complemento": "Apt 181",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000006098"
+  },
+  "comodidades": [
+    "Segurança",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

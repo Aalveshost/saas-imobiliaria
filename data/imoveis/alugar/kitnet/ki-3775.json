@@ -1,0 +1,41 @@
+{
+  "id": "ki-3775",
+  "slug": "studio-consolacao-ki3775",
+  "titulo": "Studio em Consolação",
+  "descricao": "Kitnet compacta e aconchegante",
+  "preco": 3000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 50,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "ki-3775",
+  "imagem": "ap005.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "224",
+    "complemento": "Apt 671",
+    "bairro": "Consolação",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000006381"
+  },
+  "comodidades": [
+    "Garagem",
+    "Elevador",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

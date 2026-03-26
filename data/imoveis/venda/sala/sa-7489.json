@@ -1,0 +1,39 @@
+{
+  "id": "sa-7489",
+  "slug": "imovel-vila-madalena-sa7489",
+  "titulo": "Imóvel em Vila Madalena",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 1200000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 75,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "sa-7489",
+  "imagem": "ap001.jpg",
+  "cidade": "Campinas",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "672",
+    "complemento": "Apt 131",
+    "bairro": "Vila Madalena",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "00000650"
+  },
+  "comodidades": [
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.306Z",
+  "atualizadoEm": "2026-03-26T02:34:38.306Z"
+}

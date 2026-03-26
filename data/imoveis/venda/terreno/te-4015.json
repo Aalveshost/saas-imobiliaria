@@ -1,0 +1,40 @@
+{
+  "id": "te-4015",
+  "slug": "area-para-construcao-vila-madalena-te4015",
+  "titulo": "Área para construção em Vila Madalena",
+  "descricao": "Área ampla com zoneamento comercial",
+  "preco": 500000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 1000,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-4015",
+  "imagem": "ap004.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "668",
+    "complemento": "Apt 629",
+    "bairro": "Vila Madalena",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000007895"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.298Z",
+  "atualizadoEm": "2026-03-26T02:34:38.298Z"
+}

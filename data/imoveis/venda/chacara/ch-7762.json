@@ -1,0 +1,41 @@
+{
+  "id": "ch-7762",
+  "slug": "casa-de-campo-vila-mariana-ch7762",
+  "titulo": "Casa de campo em Vila Mariana",
+  "descricao": "Propriedade com área verde extensa",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 2000,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ch-7762",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Mariana",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "297",
+    "complemento": "Apt 144",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007423"
+  },
+  "comodidades": [
+    "Área verde",
+    "Quadra",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

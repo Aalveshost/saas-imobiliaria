@@ -1,0 +1,40 @@
+{
+  "id": "cb-2169",
+  "slug": "penthouse-moema-cb2169",
+  "titulo": "Penthouse em Moema",
+  "descricao": "Unidade com vista panorâmica da cidade",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 200,
+  "quartos": 4,
+  "banheiros": 4,
+  "vagas": 4,
+  "img": "cb-2169",
+  "imagem": "ap005.jpg",
+  "cidade": "Campinas",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "333",
+    "complemento": "Apt 17",
+    "bairro": "Moema",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000002799"
+  },
+  "comodidades": [
+    "Quadra",
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cb-3492",
+  "slug": "penthouse-moema-cb3492",
+  "titulo": "Penthouse em Moema",
+  "descricao": "Cobertura duplex com terraço amplo",
+  "preco": 3000000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 250,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "cb-3492",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "230",
+    "complemento": "Apt 261",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000001544"
+  },
+  "comodidades": [
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

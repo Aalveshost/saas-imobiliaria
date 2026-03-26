@@ -1,0 +1,40 @@
+{
+  "id": "ca-2115",
+  "slug": "casa-reformada-itaim-ca2115",
+  "titulo": "Casa reformada em Itaim",
+  "descricao": "Imóvel pronto para morar com acabamento completo",
+  "preco": 500000,
+  "tipo": "alugar",
+  "cat": "casa",
+  "area": 150,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 4,
+  "img": "ca-2115",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "477",
+    "complemento": "Apt 544",
+    "bairro": "Itaim",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007313"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

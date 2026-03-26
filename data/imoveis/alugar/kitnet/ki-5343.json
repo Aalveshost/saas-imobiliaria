@@ -1,0 +1,41 @@
+{
+  "id": "ki-5343",
+  "slug": "kitnet-consolacao-ki5343",
+  "titulo": "Kitnet em Consolação",
+  "descricao": "Kitnet compacta e aconchegante",
+  "preco": 3000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 30,
+  "quartos": 1,
+  "banheiros": 1,
+  "vagas": 0,
+  "img": "ki-5343",
+  "imagem": "ap003.jpg",
+  "cidade": "Campinas",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "912",
+    "complemento": "",
+    "bairro": "Consolação",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000003755"
+  },
+  "comodidades": [
+    "Área verde",
+    "Academia",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

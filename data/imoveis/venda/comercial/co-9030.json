@@ -1,0 +1,39 @@
+{
+  "id": "co-9030",
+  "slug": "ponto-comercial-centro-co9030",
+  "titulo": "Ponto comercial em Centro",
+  "descricao": "Sala comercial em zona de alto fluxo",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "comercial",
+  "area": 120,
+  "quartos": 1,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "co-9030",
+  "imagem": "casa001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "291",
+    "complemento": "",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009117"
+  },
+  "comodidades": [
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

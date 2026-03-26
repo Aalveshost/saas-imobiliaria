@@ -1,0 +1,40 @@
+{
+  "id": "co-5722",
+  "slug": "loja-vila-madalena-co5722",
+  "titulo": "Loja em Vila Madalena",
+  "descricao": "Loja com vitrine ampla e acessibilidade",
+  "preco": 800000,
+  "tipo": "venda",
+  "cat": "comercial",
+  "area": 120,
+  "quartos": 1,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "co-5722",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "809",
+    "complemento": "",
+    "bairro": "Vila Madalena",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009332"
+  },
+  "comodidades": [
+    "Piscina",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

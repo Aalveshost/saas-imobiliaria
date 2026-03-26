@@ -1,0 +1,39 @@
+{
+  "id": "ap-9450",
+  "slug": "apartamento-1-quarto-bela-vista-ap9450",
+  "titulo": "Apartamento 1 quarto em Bela Vista",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 30000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 85,
+  "quartos": 1,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "ap-9450",
+  "imagem": "ap001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "602",
+    "complemento": "Apt 90",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000004476"
+  },
+  "comodidades": [
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:34:38.294Z"
+}

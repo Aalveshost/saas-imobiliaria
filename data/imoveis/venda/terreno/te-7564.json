@@ -1,0 +1,40 @@
+{
+  "id": "te-7564",
+  "slug": "area-para-construcao-consolacao-te7564",
+  "titulo": "Área para construção em Consolação",
+  "descricao": "Terreno bem localizado para construção",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 800,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-7564",
+  "imagem": "ap005.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "58",
+    "complemento": "",
+    "bairro": "Consolação",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000003981"
+  },
+  "comodidades": [
+    "Quadra",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.298Z",
+  "atualizadoEm": "2026-03-26T02:34:38.298Z"
+}

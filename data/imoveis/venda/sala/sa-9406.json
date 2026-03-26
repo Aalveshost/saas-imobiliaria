@@ -1,0 +1,39 @@
+{
+  "id": "sa-9406",
+  "slug": "imovel-vila-olimpia-sa9406",
+  "titulo": "Imóvel em Vila Olímpia",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 85,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "sa-9406",
+  "imagem": "ap004.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "4",
+    "complemento": "",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009083"
+  },
+  "comodidades": [
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.305Z",
+  "atualizadoEm": "2026-03-26T02:34:38.305Z"
+}

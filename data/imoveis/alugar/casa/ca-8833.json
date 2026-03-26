@@ -1,0 +1,40 @@
+{
+  "id": "ca-8833",
+  "slug": "casa-com-piscina-itaim-ca8833",
+  "titulo": "Casa com piscina em Itaim",
+  "descricao": "Imóvel pronto para morar com acabamento completo",
+  "preco": 500000,
+  "tipo": "alugar",
+  "cat": "casa",
+  "area": 800,
+  "quartos": 3,
+  "banheiros": 4,
+  "vagas": 2,
+  "img": "ca-8833",
+  "imagem": "ap005.jpg",
+  "cidade": "Campinas",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "735",
+    "complemento": "",
+    "bairro": "Itaim",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000001818"
+  },
+  "comodidades": [
+    "Quadra",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

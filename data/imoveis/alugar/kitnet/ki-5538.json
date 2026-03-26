@@ -1,0 +1,40 @@
+{
+  "id": "ki-5538",
+  "slug": "studio-centro-ki5538",
+  "titulo": "Studio em Centro",
+  "descricao": "Unidade pronta para investimento",
+  "preco": 3000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 40,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 0,
+  "img": "ki-5538",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "399",
+    "complemento": "Apt 103",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "00000846"
+  },
+  "comodidades": [
+    "Piscina",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.297Z",
+  "atualizadoEm": "2026-03-26T02:34:38.297Z"
+}

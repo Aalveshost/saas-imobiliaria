@@ -1,0 +1,40 @@
+{
+  "id": "fa-5277",
+  "slug": "sitio-vila-olimpia-fa5277",
+  "titulo": "Sítio em Vila Olímpia",
+  "descricao": "Propriedade rural com ótimo potencial",
+  "preco": 20000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 50000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "fa-5277",
+  "imagem": "ap001.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "742",
+    "complemento": "Apt 177",
+    "bairro": "Vila Olímpia",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000001416"
+  },
+  "comodidades": [
+    "Elevador",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

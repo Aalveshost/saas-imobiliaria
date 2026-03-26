@@ -1,0 +1,40 @@
+{
+  "id": "cb-8957",
+  "slug": "cobertura-duplex-centro-cb8957",
+  "titulo": "Cobertura duplex em Centro",
+  "descricao": "Unidade com vista panorâmica da cidade",
+  "preco": 3000000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 250,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 3,
+  "img": "cb-8957",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "675",
+    "complemento": "",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000004669"
+  },
+  "comodidades": [
+    "Segurança",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

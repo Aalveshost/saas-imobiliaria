@@ -1,0 +1,40 @@
+{
+  "id": "sa-2438",
+  "slug": "imovel-pinheiros-sa2438",
+  "titulo": "Imóvel em Pinheiros",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 250000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 50,
+  "quartos": 3,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "sa-2438",
+  "imagem": "ap004.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "879",
+    "complemento": "",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007531"
+  },
+  "comodidades": [
+    "Piscina",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.305Z",
+  "atualizadoEm": "2026-03-26T02:34:38.305Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sa-2896",
+  "slug": "imovel-vila-olimpia-sa2896",
+  "titulo": "Imóvel em Vila Olímpia",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 450000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 85,
+  "quartos": 2,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "sa-2896",
+  "imagem": "casa 002.jpeg",
+  "cidade": "Campinas",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "208",
+    "complemento": "",
+    "bairro": "Vila Olímpia",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000005118"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.305Z",
+  "atualizadoEm": "2026-03-26T02:34:38.305Z"
+}

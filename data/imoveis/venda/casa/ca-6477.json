@@ -1,0 +1,39 @@
+{
+  "id": "ca-6477",
+  "slug": "casa-em-condominio-bela-vista-ca6477",
+  "titulo": "Casa em condomínio em Bela Vista",
+  "descricao": "Residência bem estruturada em condomínio fechado",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "casa",
+  "area": 200,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ca-6477",
+  "imagem": "casa 003.webp",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "236",
+    "complemento": "Apt 764",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000004299"
+  },
+  "comodidades": [
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:34:38.294Z"
+}

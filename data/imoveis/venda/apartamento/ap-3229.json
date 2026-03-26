@@ -1,0 +1,40 @@
+{
+  "id": "ap-3229",
+  "slug": "apartamento-3-quartos-pinheiros-ap3229",
+  "titulo": "Apartamento 3 quartos em Pinheiros",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 24000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 180,
+  "quartos": 4,
+  "banheiros": 3,
+  "vagas": 1,
+  "img": "ap-3229",
+  "imagem": "casa 003.webp",
+  "cidade": "Guarulhos",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "415",
+    "complemento": "",
+    "bairro": "Pinheiros",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000009900"
+  },
+  "comodidades": [
+    "Área verde",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": true,
+  "criadoEm": "2026-03-26T02:34:38.292Z",
+  "atualizadoEm": "2026-03-26T02:34:38.292Z"
+}

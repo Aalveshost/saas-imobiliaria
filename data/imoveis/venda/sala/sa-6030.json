@@ -1,0 +1,40 @@
+{
+  "id": "sa-6030",
+  "slug": "imovel-jardins-sa6030",
+  "titulo": "Imóvel em Jardins",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 1200000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 75,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "sa-6030",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "929",
+    "complemento": "Apt 79",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000003232"
+  },
+  "comodidades": [
+    "Elevador",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.305Z",
+  "atualizadoEm": "2026-03-26T02:34:38.305Z"
+}

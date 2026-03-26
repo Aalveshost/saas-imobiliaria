@@ -1,0 +1,40 @@
+{
+  "id": "ch-1367",
+  "slug": "chacara-de-lazer-itaim-ch1367",
+  "titulo": "Chácara de lazer em Itaim",
+  "descricao": "Chácara com vista privilegiada",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 3000,
+  "quartos": 3,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "ch-1367",
+  "imagem": "casa001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "375",
+    "complemento": "",
+    "bairro": "Itaim",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000004361"
+  },
+  "comodidades": [
+    "Garagem",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

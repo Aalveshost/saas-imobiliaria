@@ -1,0 +1,41 @@
+{
+  "id": "ch-1124",
+  "slug": "chacara-de-lazer-bela-vista-ch1124",
+  "titulo": "Chácara de lazer em Bela Vista",
+  "descricao": "Propriedade com área verde extensa",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 10000,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ch-1124",
+  "imagem": "ap003.jpg",
+  "cidade": "Guarulhos",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "812",
+    "complemento": "Apt 65",
+    "bairro": "Bela Vista",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000002719"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Elevador",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

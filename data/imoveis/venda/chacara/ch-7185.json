@@ -1,0 +1,41 @@
+{
+  "id": "ch-7185",
+  "slug": "chacara-com-piscina-moema-ch7185",
+  "titulo": "Chácara com piscina em Moema",
+  "descricao": "Chácara com vista privilegiada",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 5000,
+  "quartos": 4,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "ch-7185",
+  "imagem": "ap004.jpg",
+  "cidade": "Campinas",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "337",
+    "complemento": "Apt 59",
+    "bairro": "Moema",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000003806"
+  },
+  "comodidades": [
+    "Academia",
+    "Garagem",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

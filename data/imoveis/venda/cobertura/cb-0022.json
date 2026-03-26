@@ -1,0 +1,40 @@
+{
+  "id": "cb-0022",
+  "slug": "cobertura-duplex-vila-mariana-cb0022",
+  "titulo": "Cobertura duplex em Vila Mariana",
+  "descricao": "Unidade com vista panorâmica da cidade",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 250,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "cb-0022",
+  "imagem": "ap001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Mariana",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "112",
+    "complemento": "Apt 342",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000003916"
+  },
+  "comodidades": [
+    "Elevador",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "fa-5770",
+  "slug": "fazenda-de-grande-area-vila-madalena-fa5770",
+  "titulo": "Fazenda de grande área em Vila Madalena",
+  "descricao": "Fazenda com infraestrutura completa",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 50000,
+  "quartos": 4,
+  "banheiros": 3,
+  "vagas": 3,
+  "img": "fa-5770",
+  "imagem": "casa 002.jpeg",
+  "cidade": "Campinas",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "586",
+    "complemento": "",
+    "bairro": "Vila Madalena",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000006304"
+  },
+  "comodidades": [
+    "Piscina",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "te-7446",
+  "slug": "terreno-plano-jardins-te7446",
+  "titulo": "Terreno plano em Jardins",
+  "descricao": "Área ampla com zoneamento comercial",
+  "preco": 750000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 1000,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-7446",
+  "imagem": "ap004.jpg",
+  "cidade": "Campinas",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "851",
+    "complemento": "",
+    "bairro": "Jardins",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000008950"
+  },
+  "comodidades": [
+    "Quadra",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.297Z",
+  "atualizadoEm": "2026-03-26T02:34:38.297Z"
+}

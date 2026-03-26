@@ -1,0 +1,40 @@
+{
+  "id": "ap-9139",
+  "slug": "apartamento-3-quartos-bela-vista-ap9139",
+  "titulo": "Apartamento 3 quartos em Bela Vista",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 950000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 50,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "ap-9139",
+  "imagem": "casa 003.webp",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "728",
+    "complemento": "",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007359"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": true,
+  "criadoEm": "2026-03-26T02:34:38.293Z",
+  "atualizadoEm": "2026-03-26T02:34:38.293Z"
+}

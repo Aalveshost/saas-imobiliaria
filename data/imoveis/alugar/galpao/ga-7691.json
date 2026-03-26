@@ -1,0 +1,41 @@
+{
+  "id": "ga-7691",
+  "slug": "imovel-vila-olimpia-ga7691",
+  "titulo": "Imóvel em Vila Olímpia",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 19000,
+  "tipo": "alugar",
+  "cat": "galpao",
+  "area": 100,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "ga-7691",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "927",
+    "complemento": "",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000008410"
+  },
+  "comodidades": [
+    "Garagem",
+    "Segurança",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

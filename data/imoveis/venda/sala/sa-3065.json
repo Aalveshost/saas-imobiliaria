@@ -1,0 +1,40 @@
+{
+  "id": "sa-3065",
+  "slug": "imovel-jardins-sa3065",
+  "titulo": "Imóvel em Jardins",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 950000,
+  "tipo": "venda",
+  "cat": "sala",
+  "area": 150,
+  "quartos": 3,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "sa-3065",
+  "imagem": "casa 003.webp",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "922",
+    "complemento": "Apt 314",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007867"
+  },
+  "comodidades": [
+    "Segurança",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.306Z",
+  "atualizadoEm": "2026-03-26T02:34:38.306Z"
+}

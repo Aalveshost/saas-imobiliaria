@@ -1,0 +1,40 @@
+{
+  "id": "co-5833",
+  "slug": "ponto-comercial-bela-vista-co5833",
+  "titulo": "Ponto comercial em Bela Vista",
+  "descricao": "Sala comercial em zona de alto fluxo",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "comercial",
+  "area": 200,
+  "quartos": 0,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "co-5833",
+  "imagem": "ap005.jpg",
+  "cidade": "Campinas",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "383",
+    "complemento": "",
+    "bairro": "Bela Vista",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000004412"
+  },
+  "comodidades": [
+    "Segurança",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ca-8241",
+  "slug": "casa-reformada-moema-ca8241",
+  "titulo": "Casa reformada em Moema",
+  "descricao": "Residência bem estruturada em condomínio fechado",
+  "preco": 1200000,
+  "tipo": "alugar",
+  "cat": "casa",
+  "area": 200,
+  "quartos": 4,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "ca-8241",
+  "imagem": "ap003.jpg",
+  "cidade": "Campinas",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "800",
+    "complemento": "",
+    "bairro": "Moema",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000008461"
+  },
+  "comodidades": [
+    "Piscina",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

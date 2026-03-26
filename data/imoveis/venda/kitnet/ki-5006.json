@@ -1,0 +1,40 @@
+{
+  "id": "ki-5006",
+  "slug": "quitinete-centro-ki5006",
+  "titulo": "Quitinete em Centro",
+  "descricao": "Unidade pronta para investimento",
+  "preco": 250000,
+  "tipo": "venda",
+  "cat": "kitnet",
+  "area": 40,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "ki-5006",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "915",
+    "complemento": "Apt 151",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000005361"
+  },
+  "comodidades": [
+    "Quadra",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ch-5125",
+  "slug": "chacara-de-lazer-moema-ch5125",
+  "titulo": "Chácara de lazer em Moema",
+  "descricao": "Propriedade com área verde extensa",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 5000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ch-5125",
+  "imagem": "ap001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "395",
+    "complemento": "Apt 706",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009621"
+  },
+  "comodidades": [
+    "Piscina",
+    "Academia",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.302Z",
+  "atualizadoEm": "2026-03-26T02:34:38.302Z"
+}

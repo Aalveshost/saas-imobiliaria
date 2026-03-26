@@ -1,0 +1,41 @@
+{
+  "id": "ga-1117",
+  "slug": "imovel-vila-olimpia-ga1117",
+  "titulo": "Imóvel em Vila Olímpia",
+  "descricao": "Unidade com varanda e vista privilegiada",
+  "preco": 750000,
+  "tipo": "venda",
+  "cat": "galpao",
+  "area": 75,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ga-1117",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "875",
+    "complemento": "",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "00000215"
+  },
+  "comodidades": [
+    "Academia",
+    "Área verde",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.302Z",
+  "atualizadoEm": "2026-03-26T02:34:38.302Z"
+}

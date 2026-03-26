@@ -1,0 +1,44 @@
+{
+  "id": "ap-6509",
+  "slug": "apartamento-3-quartos-jardins-ap6509",
+  "titulo": "Apartamento 3 quartos em Jardins",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 450000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 60,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ap-6509",
+  "imagem": "casa001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "671",
+    "complemento": "Apt 339",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "00000270"
+  },
+  "comodidades": [
+    "Área verde",
+    "portaria24h",
+    "jardim",
+    "academia",
+    "piscina",
+    "ar-condicionado"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:48:29.019Z"
+}

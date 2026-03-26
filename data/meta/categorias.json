@@ -1,0 +1,12 @@
+[
+  { "slug": "apartamento", "label": "Apartamento", "prefixo": "ap" },
+  { "slug": "casa",        "label": "Casa",        "prefixo": "ca" },
+  { "slug": "kitnet",      "label": "Kitnet",      "prefixo": "ki" },
+  { "slug": "terreno",     "label": "Terreno",     "prefixo": "te" },
+  { "slug": "cobertura",   "label": "Cobertura",   "prefixo": "cb" },
+  { "slug": "comercial",   "label": "Comercial",   "prefixo": "co" },
+  { "slug": "galpao",      "label": "Galpão",      "prefixo": "ga" },
+  { "slug": "chacara",     "label": "Chácara",     "prefixo": "ch" },
+  { "slug": "fazenda",     "label": "Fazenda",     "prefixo": "fa" },
+  { "slug": "sala",        "label": "Sala",        "prefixo": "sa" }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "ki-5222",
+  "slug": "kitnet-consolacao-ki5222",
+  "titulo": "Kitnet em Consolação",
+  "descricao": "Unidade pronta para investimento",
+  "preco": 4000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 30,
+  "quartos": 1,
+  "banheiros": 1,
+  "vagas": 0,
+  "img": "ki-5222",
+  "imagem": "casa001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "889",
+    "complemento": "Apt 201",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000002244"
+  },
+  "comodidades": [
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cb-4346",
+  "slug": "cobertura-duplex-vila-madalena-cb4346",
+  "titulo": "Cobertura duplex em Vila Madalena",
+  "descricao": "Unidade com vista panorâmica da cidade",
+  "preco": 3000000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 250,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 4,
+  "img": "cb-4346",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "752",
+    "complemento": "",
+    "bairro": "Vila Madalena",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000003720"
+  },
+  "comodidades": [
+    "Academia",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

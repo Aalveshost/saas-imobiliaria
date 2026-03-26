@@ -1,0 +1,40 @@
+{
+  "id": "ki-9294",
+  "slug": "kitnet-itaim-ki9294",
+  "titulo": "Kitnet em Itaim",
+  "descricao": "Kitnet compacta e aconchegante",
+  "preco": 250000,
+  "tipo": "venda",
+  "cat": "kitnet",
+  "area": 40,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 0,
+  "img": "ki-9294",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Itaim",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "610",
+    "complemento": "Apt 45",
+    "bairro": "Itaim",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000002819"
+  },
+  "comodidades": [
+    "Piscina",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

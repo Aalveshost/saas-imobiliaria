@@ -1,0 +1,40 @@
+{
+  "id": "ca-7959",
+  "slug": "casa-com-piscina-bela-vista-ca7959",
+  "titulo": "Casa com piscina em Bela Vista",
+  "descricao": "Casa ampla com quintal e piscina",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "casa",
+  "area": 250,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "ca-7959",
+  "imagem": "casa 003.webp",
+  "cidade": "Campinas",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "498",
+    "complemento": "",
+    "bairro": "Bela Vista",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000008065"
+  },
+  "comodidades": [
+    "Piscina",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fa-7984",
+  "slug": "fazenda-de-grande-area-pinheiros-fa7984",
+  "titulo": "Fazenda de grande área em Pinheiros",
+  "descricao": "Propriedade rural com ótimo potencial",
+  "preco": 20000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 100000,
+  "quartos": 4,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "fa-7984",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "812",
+    "complemento": "Apt 676",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007156"
+  },
+  "comodidades": [
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

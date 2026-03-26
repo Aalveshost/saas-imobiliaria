@@ -1,0 +1,40 @@
+{
+  "id": "fa-8113",
+  "slug": "fazenda-de-grande-area-consolacao-fa8113",
+  "titulo": "Fazenda de grande área em Consolação",
+  "descricao": "Propriedade rural com ótimo potencial",
+  "preco": 50000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 100000,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "fa-8113",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "525",
+    "complemento": "",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000002954"
+  },
+  "comodidades": [
+    "Elevador",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.304Z",
+  "atualizadoEm": "2026-03-26T02:34:38.304Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "co-6927",
+  "slug": "ponto-comercial-consolacao-co6927",
+  "titulo": "Ponto comercial em Consolação",
+  "descricao": "Loja com vitrine ampla e acessibilidade",
+  "preco": 10000,
+  "tipo": "alugar",
+  "cat": "comercial",
+  "area": 80,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "co-6927",
+  "imagem": "casa001.jpg",
+  "cidade": "Campinas",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "248",
+    "complemento": "Apt 543",
+    "bairro": "Consolação",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000009937"
+  },
+  "comodidades": [
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

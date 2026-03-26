@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "piscina",
+    "label": "Piscina"
+  },
+  {
+    "slug": "academia",
+    "label": "Academia"
+  },
+  {
+    "slug": "garagem",
+    "label": "Garagem"
+  },
+  {
+    "slug": "portaria24h",
+    "label": "Portaria 24h"
+  },
+  {
+    "slug": "churrasqueira",
+    "label": "Churrasqueira"
+  },
+  {
+    "slug": "playground",
+    "label": "Playground"
+  },
+  {
+    "slug": "salao-festas",
+    "label": "Salão de Festas"
+  },
+  {
+    "slug": "pet-friendly",
+    "label": "Pet Friendly"
+  },
+  {
+    "slug": "elevador",
+    "label": "Elevador"
+  },
+  {
+    "slug": "sacada",
+    "label": "Sacada"
+  },
+  {
+    "slug": "ar-condicionado",
+    "label": "Ar Condicionado"
+  },
+  {
+    "slug": "jardim",
+    "label": "Jardim"
+  }
+]

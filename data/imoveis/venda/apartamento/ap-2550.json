@@ -1,0 +1,39 @@
+{
+  "id": "ap-2550",
+  "slug": "apartamento-2-quartos-moema-ap2550",
+  "titulo": "Apartamento 2 quartos em Moema",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 550000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 60,
+  "quartos": 2,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "ap-2550",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "478",
+    "complemento": "",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000001663"
+  },
+  "comodidades": [
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": true,
+  "criadoEm": "2026-03-26T02:34:38.293Z",
+  "atualizadoEm": "2026-03-26T02:34:38.293Z"
+}

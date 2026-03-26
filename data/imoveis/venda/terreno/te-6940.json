@@ -1,0 +1,41 @@
+{
+  "id": "te-6940",
+  "slug": "lote-urbanizado-bela-vista-te6940",
+  "titulo": "Lote urbanizado em Bela Vista",
+  "descricao": "Área ampla com zoneamento comercial",
+  "preco": 1000000,
+  "tipo": "venda",
+  "cat": "terreno",
+  "area": 1500,
+  "quartos": 0,
+  "banheiros": 0,
+  "vagas": 0,
+  "img": "te-6940",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "833",
+    "complemento": "Apt 172",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000007068"
+  },
+  "comodidades": [
+    "Piscina",
+    "Elevador",
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.297Z",
+  "atualizadoEm": "2026-03-26T02:34:38.297Z"
+}

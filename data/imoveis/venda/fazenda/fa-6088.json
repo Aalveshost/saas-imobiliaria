@@ -1,0 +1,40 @@
+{
+  "id": "fa-6088",
+  "slug": "propriedade-rural-moema-fa6088",
+  "titulo": "Propriedade rural em Moema",
+  "descricao": "Fazenda com infraestrutura completa",
+  "preco": 50000000,
+  "tipo": "venda",
+  "cat": "fazenda",
+  "area": 200000,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "fa-6088",
+  "imagem": "ap003.jpg",
+  "cidade": "Campinas",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "960",
+    "complemento": "Apt 966",
+    "bairro": "Moema",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000005898"
+  },
+  "comodidades": [
+    "Garagem",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

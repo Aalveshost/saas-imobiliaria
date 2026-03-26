@@ -1,0 +1,39 @@
+{
+  "id": "ch-6998",
+  "slug": "chacara-com-piscina-moema-ch6998",
+  "titulo": "Chácara com piscina em Moema",
+  "descricao": "Propriedade com área verde extensa",
+  "preco": 5000000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 5000,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "ch-6998",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "559",
+    "complemento": "",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000006399"
+  },
+  "comodidades": [
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.302Z",
+  "atualizadoEm": "2026-03-26T02:34:38.302Z"
+}

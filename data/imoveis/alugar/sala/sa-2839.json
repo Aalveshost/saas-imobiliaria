@@ -1,0 +1,41 @@
+{
+  "id": "sa-2839",
+  "slug": "imovel-vila-mariana-sa2839",
+  "titulo": "Imóvel em Vila Mariana",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 15000,
+  "tipo": "alugar",
+  "cat": "sala",
+  "area": 50,
+  "quartos": 4,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "sa-2839",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Mariana",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "733",
+    "complemento": "Apt 294",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000001102"
+  },
+  "comodidades": [
+    "Piscina",
+    "Garagem",
+    "Área verde"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.306Z",
+  "atualizadoEm": "2026-03-26T02:34:38.306Z"
+}

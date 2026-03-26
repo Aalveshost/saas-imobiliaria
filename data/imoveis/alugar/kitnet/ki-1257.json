@@ -1,0 +1,40 @@
+{
+  "id": "ki-1257",
+  "slug": "quitinete-jardins-ki1257",
+  "titulo": "Quitinete em Jardins",
+  "descricao": "Kitnet compacta e aconchegante",
+  "preco": 4000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 30,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "ki-1257",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "189",
+    "complemento": "Apt 133",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009294"
+  },
+  "comodidades": [
+    "Segurança",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cb-2076",
+  "slug": "cobertura-duplex-jardins-cb2076",
+  "titulo": "Cobertura duplex em Jardins",
+  "descricao": "Unidade com vista panorâmica da cidade",
+  "preco": 2500000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 300,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "cb-2076",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "382",
+    "complemento": "",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "00000155"
+  },
+  "comodidades": [
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.298Z",
+  "atualizadoEm": "2026-03-26T02:34:38.298Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ki-0758",
+  "slug": "kitnet-bela-vista-ki0758",
+  "titulo": "Kitnet em Bela Vista",
+  "descricao": "Unidade pronta para investimento",
+  "preco": 4000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 30,
+  "quartos": 1,
+  "banheiros": 1,
+  "vagas": 1,
+  "img": "ki-0758",
+  "imagem": "ap001.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "762",
+    "complemento": "",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000004076"
+  },
+  "comodidades": [
+    "Piscina",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}

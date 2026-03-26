@@ -1,0 +1,41 @@
+{
+  "id": "cb-2974",
+  "slug": "cobertura-duplex-consolacao-cb2974",
+  "titulo": "Cobertura duplex em Consolação",
+  "descricao": "Cobertura duplex com terraço amplo",
+  "preco": 2000000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 300,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 4,
+  "img": "cb-2974",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "68",
+    "complemento": "",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000006636"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Segurança",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

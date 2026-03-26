@@ -1,0 +1,40 @@
+{
+  "id": "ch-2390",
+  "slug": "chacara-de-lazer-consolacao-ch2390",
+  "titulo": "Chácara de lazer em Consolação",
+  "descricao": "Propriedade com área verde extensa",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 3000,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "ch-2390",
+  "imagem": "ap004.jpg",
+  "cidade": "Campinas",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "117",
+    "complemento": "",
+    "bairro": "Consolação",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000005804"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.302Z",
+  "atualizadoEm": "2026-03-26T02:34:38.302Z"
+}

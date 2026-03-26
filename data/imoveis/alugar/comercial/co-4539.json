@@ -1,0 +1,40 @@
+{
+  "id": "co-4539",
+  "slug": "ponto-comercial-jardins-co4539",
+  "titulo": "Ponto comercial em Jardins",
+  "descricao": "Sala comercial em zona de alto fluxo",
+  "preco": 30000,
+  "tipo": "alugar",
+  "cat": "comercial",
+  "area": 200,
+  "quartos": 0,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "co-4539",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "719",
+    "complemento": "Apt 443",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000003211"
+  },
+  "comodidades": [
+    "Piscina",
+    "Quadra"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.300Z",
+  "atualizadoEm": "2026-03-26T02:34:38.300Z"
+}

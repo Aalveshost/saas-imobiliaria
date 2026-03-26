@@ -1,0 +1,39 @@
+{
+  "id": "ch-1677",
+  "slug": "casa-de-campo-jardins-ch1677",
+  "titulo": "Casa de campo em Jardins",
+  "descricao": "Chácara com vista privilegiada",
+  "preco": 800000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 3000,
+  "quartos": 3,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ch-1677",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Jardins",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "47",
+    "complemento": "",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000005756"
+  },
+  "comodidades": [
+    "Churrasqueira"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.302Z",
+  "atualizadoEm": "2026-03-26T02:34:38.302Z"
+}

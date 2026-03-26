@@ -1,0 +1,40 @@
+{
+  "id": "ch-1494",
+  "slug": "chacara-de-lazer-moema-ch1494",
+  "titulo": "Chácara de lazer em Moema",
+  "descricao": "Chácara com vista privilegiada",
+  "preco": 1500000,
+  "tipo": "venda",
+  "cat": "chacara",
+  "area": 5000,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ch-1494",
+  "imagem": "ap005.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "685",
+    "complemento": "Apt 857",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009817"
+  },
+  "comodidades": [
+    "Quadra",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Maria Santos",
+    "tel": "11987654322",
+    "email": "maria@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.303Z",
+  "atualizadoEm": "2026-03-26T02:34:38.303Z"
+}

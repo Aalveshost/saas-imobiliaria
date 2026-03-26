@@ -1,0 +1,40 @@
+{
+  "id": "ga-7144",
+  "slug": "imovel-consolacao-ga7144",
+  "titulo": "Imóvel em Consolação",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 11000,
+  "tipo": "alugar",
+  "cat": "galpao",
+  "area": 60,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 1,
+  "img": "ga-7144",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Consolação",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "110",
+    "complemento": "",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000001846"
+  },
+  "comodidades": [
+    "Garagem",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.302Z",
+  "atualizadoEm": "2026-03-26T02:34:38.302Z"
+}

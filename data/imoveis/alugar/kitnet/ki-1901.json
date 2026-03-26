@@ -1,0 +1,40 @@
+{
+  "id": "ki-1901",
+  "slug": "studio-moema-ki1901",
+  "titulo": "Studio em Moema",
+  "descricao": "Kitnet compacta e aconchegante",
+  "preco": 3000,
+  "tipo": "alugar",
+  "cat": "kitnet",
+  "area": 40,
+  "quartos": 1,
+  "banheiros": 1,
+  "vagas": 0,
+  "img": "ki-1901",
+  "imagem": "casa 002.jpeg",
+  "cidade": "Guarulhos",
+  "bairro": "Moema",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "657",
+    "complemento": "Apt 843",
+    "bairro": "Moema",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "000003299"
+  },
+  "comodidades": [
+    "Área verde",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.296Z",
+  "atualizadoEm": "2026-03-26T02:34:38.296Z"
+}

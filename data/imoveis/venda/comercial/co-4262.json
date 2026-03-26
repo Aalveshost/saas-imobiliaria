@@ -1,0 +1,40 @@
+{
+  "id": "co-4262",
+  "slug": "loja-vila-madalena-co4262",
+  "titulo": "Loja em Vila Madalena",
+  "descricao": "Sala comercial em zona de alto fluxo",
+  "preco": 500000,
+  "tipo": "venda",
+  "cat": "comercial",
+  "area": 80,
+  "quartos": 0,
+  "banheiros": 1,
+  "vagas": 2,
+  "img": "co-4262",
+  "imagem": "ap001.jpg",
+  "cidade": "Campinas",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua Principal",
+    "numero": "969",
+    "complemento": "Apt 40",
+    "bairro": "Vila Madalena",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000006199"
+  },
+  "comodidades": [
+    "Área verde",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

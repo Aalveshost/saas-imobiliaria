@@ -1,0 +1,40 @@
+{
+  "id": "ca-3304",
+  "slug": "casa-reformada-pinheiros-ca3304",
+  "titulo": "Casa reformada em Pinheiros",
+  "descricao": "Casa ampla com quintal e piscina",
+  "preco": 900000,
+  "tipo": "venda",
+  "cat": "casa",
+  "area": 800,
+  "quartos": 3,
+  "banheiros": 3,
+  "vagas": 2,
+  "img": "ca-3304",
+  "imagem": "casa001.jpg",
+  "cidade": "Campinas",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua da Paz",
+    "numero": "324",
+    "complemento": "Apt 805",
+    "bairro": "Pinheiros",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "000002653"
+  },
+  "comodidades": [
+    "Quadra",
+    "Garagem"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Carlos Oliveira",
+    "tel": "11987654323",
+    "email": "carlos@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.294Z",
+  "atualizadoEm": "2026-03-26T02:34:38.294Z"
+}

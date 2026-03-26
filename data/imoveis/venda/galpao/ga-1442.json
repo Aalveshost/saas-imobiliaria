@@ -1,0 +1,42 @@
+{
+  "id": "ga-1442",
+  "slug": "imovel-bela-vista-ga1442",
+  "titulo": "Imóvel em Bela Vista",
+  "descricao": "Imóvel reformado próximo a comércios e transportes",
+  "preco": 1200000,
+  "tipo": "venda",
+  "cat": "galpao",
+  "area": 150,
+  "quartos": 2,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "ga-1442",
+  "imagem": "ap004.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua dos Pinheiros",
+    "numero": "216",
+    "complemento": "Apt 449",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000002799"
+  },
+  "comodidades": [
+    "Piscina",
+    "Churrasqueira",
+    "Garagem",
+    "Academia"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

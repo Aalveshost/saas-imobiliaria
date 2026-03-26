@@ -1,0 +1,39 @@
+{
+  "id": "ap-4538",
+  "slug": "apartamento-2-quartos-pinheiros-ap4538",
+  "titulo": "Apartamento 2 quartos em Pinheiros",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 950000,
+  "tipo": "venda",
+  "cat": "apartamento",
+  "area": 50,
+  "quartos": 2,
+  "banheiros": 3,
+  "vagas": 1,
+  "img": "ap-4538",
+  "imagem": "casa 003.webp",
+  "cidade": "São Paulo",
+  "bairro": "Pinheiros",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "141",
+    "complemento": "Apt 716",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000003483"
+  },
+  "comodidades": [
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": true,
+  "criadoEm": "2026-03-26T02:34:38.293Z",
+  "atualizadoEm": "2026-03-26T02:34:38.293Z"
+}

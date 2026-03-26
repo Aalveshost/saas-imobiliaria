@@ -1,0 +1,40 @@
+{
+  "id": "cb-6288",
+  "slug": "cobertura-duplex-vila-madalena-cb6288",
+  "titulo": "Cobertura duplex em Vila Madalena",
+  "descricao": "Unidade com vista panorâmica da cidade",
+  "preco": 4000000,
+  "tipo": "venda",
+  "cat": "cobertura",
+  "area": 400,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 3,
+  "img": "cb-6288",
+  "imagem": "ap003.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Madalena",
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": "451",
+    "complemento": "Apt 694",
+    "bairro": "Vila Madalena",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009227"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Piscina"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.299Z",
+  "atualizadoEm": "2026-03-26T02:34:38.299Z"
+}

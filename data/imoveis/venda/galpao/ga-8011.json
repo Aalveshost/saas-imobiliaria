@@ -1,0 +1,40 @@
+{
+  "id": "ga-8011",
+  "slug": "imovel-bela-vista-ga8011",
+  "titulo": "Imóvel em Bela Vista",
+  "descricao": "Apartamento bem localizado com acabamento moderno",
+  "preco": 450000,
+  "tipo": "venda",
+  "cat": "galpao",
+  "area": 60,
+  "quartos": 4,
+  "banheiros": 2,
+  "vagas": 2,
+  "img": "ga-8011",
+  "imagem": "casa 002.jpeg",
+  "cidade": "São Paulo",
+  "bairro": "Bela Vista",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "668",
+    "complemento": "Apt 659",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000001280"
+  },
+  "comodidades": [
+    "Piscina",
+    "Elevador"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "João Silva",
+    "tel": "11987654321",
+    "email": "joao@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.301Z",
+  "atualizadoEm": "2026-03-26T02:34:38.301Z"
+}

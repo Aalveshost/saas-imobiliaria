@@ -1,0 +1,41 @@
+{
+  "id": "ca-1076",
+  "slug": "casa-com-piscina-vila-olimpia-ca1076",
+  "titulo": "Casa com piscina em Vila Olímpia",
+  "descricao": "Residência bem estruturada em condomínio fechado",
+  "preco": 1200000,
+  "tipo": "alugar",
+  "cat": "casa",
+  "area": 400,
+  "quartos": 5,
+  "banheiros": 2,
+  "vagas": 1,
+  "img": "ca-1076",
+  "imagem": "ap002.jpg",
+  "cidade": "São Paulo",
+  "bairro": "Vila Olímpia",
+  "endereco": {
+    "rua": "Rua do Comércio",
+    "numero": "337",
+    "complemento": "Apt 69",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "000009614"
+  },
+  "comodidades": [
+    "Churrasqueira",
+    "Piscina",
+    "Segurança"
+  ],
+  "fotos": [],
+  "contato": {
+    "nome": "Ana Costa",
+    "tel": "11987654324",
+    "email": "ana@imoveis.com"
+  },
+  "status": "ativo",
+  "destaque": false,
+  "criadoEm": "2026-03-26T02:34:38.295Z",
+  "atualizadoEm": "2026-03-26T02:34:38.295Z"
+}
