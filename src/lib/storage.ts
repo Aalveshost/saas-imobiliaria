@@ -8,8 +8,10 @@ const USE_POSTGRES = process.env.POSTGRES_URL_NON_POOLING !== undefined
 
 // ─── Inicialização ────────────────────────────────────────────────────────
 
+let initialized = false
+
 export async function initStorage(): Promise<void> {
-  if (!USE_POSTGRES) return
+  if (!USE_POSTGRES || initialized) return
 
   try {
     await sql`
@@ -19,8 +21,10 @@ export async function initStorage(): Promise<void> {
         updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
       )
     `
+    initialized = true
   } catch (err) {
     console.error('Erro ao inicializar storage:', err)
+    throw err
   }
 }
 

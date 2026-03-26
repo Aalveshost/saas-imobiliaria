@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { storageGet } from '@/lib/storage'
+import { storageGet, initStorage } from '@/lib/storage'
 
 async function getFromR2() {
   const accountId = process.env.R2_ACCOUNT_ID
@@ -27,6 +27,7 @@ async function getFromR2() {
 }
 
 export async function GET(req: NextRequest) {
+  await initStorage()
   // Tenta R2 primeiro em produção
   const fromR2 = await getFromR2()
   const lista = fromR2 || (await (async () => {

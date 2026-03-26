@@ -1,10 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { storageGet } from '@/lib/storage'
+import { storageGet, initStorage } from '@/lib/storage'
 
 export async function GET(
   req: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
+  await initStorage()
   const { id } = await params
 
   if (!id) {
