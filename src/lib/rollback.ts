@@ -1,4 +1,4 @@
-import { storageGet, storagePut, storageDelete, storageCopy, purgeCache } from './storage'
+import { storageGet, storagePut, storageDelete, purgeCache } from './storage'
 import { gerarEtag } from './etag'
 import { gerarSlug } from './slug'
 import type { ImovelCompleto, ImovelResumo, ListaImoveis } from '@/types/imovel'
@@ -53,15 +53,14 @@ async function atualizarLista(imovel: ImovelCompleto): Promise<void> {
 
 export async function salvarImovel(imovel: ImovelCompleto): Promise<void> {
   const filePath = imovelPath(imovel)
-  const backupPath = `temp/${imovel.id}.backup.json`
 
-  // 1. backup do atual se existir
+  // 1. lê versão atual para rollback em memória (não em arquivo)
   const atual = await storageGet(filePath)
-  if (atual) await storagePut(backupPath, atual)
 
   try {
     // 2. escreve novo
-    await storagePut(filePath, JSON.stringify(imovel, null, 2))
+    const novoConteudo = JSON.stringify(imovel, null, 2)
+    await storagePut(filePath, novoConteudo)
 
     // 3. valida lendo de volta
     const verificado = await storageGet(filePath)
@@ -75,17 +74,15 @@ export async function salvarImovel(imovel: ImovelCompleto): Promise<void> {
     // 5. purge cache (no-op local)
     await purgeCache([filePath, 'imoveis.json'])
 
-    // 6. remove backup
-    await storageDelete(backupPath)
-
   } catch (err) {
-    // rollback
+    // rollback em memória: restaura o conteúdo anterior se existia
     if (atual) {
-      await storagePut(filePath, atual)
-    } else {
-      await storageDelete(filePath)
+      try {
+        await storagePut(filePath, atual)
+      } catch {
+        // se rollback falhar, apenas lança o erro original
+      }
     }
-    await storageDelete(backupPath)
     throw err
   }
 }
