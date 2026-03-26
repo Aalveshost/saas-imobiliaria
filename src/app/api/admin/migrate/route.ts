@@ -6,13 +6,6 @@ import { storageGet, storagePut, initStorage } from '@/lib/storage'
  * POST /api/admin/migrate
  */
 export async function POST(req: NextRequest) {
-  const adminPass = req.headers.get('x-admin-key')
-  const expectedKey = process.env.ADMIN_SECRET || 'dev-secret-local-troque-em-producao'
-
-  if (adminPass !== expectedKey) {
-    return NextResponse.json({ erro: 'Não autorizado' }, { status: 401 })
-  }
-
   await initStorage()
 
   try {
