@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { storageGet } from '@/lib/storage'
+import { storageGet, initStorage } from '@/lib/storage'
 import { salvarImovel, removerImovel, toggleDestaque } from '@/lib/rollback'
 import { gerarSlug } from '@/lib/slug'
 import type { ImovelCompleto } from '@/types/imovel'
@@ -19,6 +19,7 @@ export async function GET(_req: NextRequest, { params }: { params: Promise<{ id:
 }
 
 export async function PUT(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
+  await initStorage()
   const { id } = await params
   const body = await req.json()
 

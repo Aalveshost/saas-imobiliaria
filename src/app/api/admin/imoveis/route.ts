@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { storageGet } from '@/lib/storage'
+import { storageGet, initStorage } from '@/lib/storage'
 import { gerarId } from '@/lib/imovel-id'
 import { salvarImovel } from '@/lib/rollback'
 import { gerarSlug } from '@/lib/slug'
@@ -12,6 +12,7 @@ export async function GET() {
 }
 
 export async function POST(req: NextRequest) {
+  await initStorage()
   const body = await req.json()
 
   const categorias = await storageGet('meta/categorias.json')
