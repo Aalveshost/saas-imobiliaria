@@ -15,7 +15,7 @@ export default function DetalheImovel() {
   useEffect(() => {
     // Extrai ID do slug (ex: "apartamento-3-quartos-moema-ap0001" → "ap-0001")
     const id = slugParaId(slug)
-    fetch(`/api/admin/imoveis/${id}`)
+    fetch(`/api/imoveis/${id}`)
       .then(r => r.json())
       .then(setImovel)
       .finally(() => setLoading(false))
