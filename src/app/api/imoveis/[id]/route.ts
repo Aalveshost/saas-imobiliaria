@@ -13,7 +13,8 @@ export async function GET(
 
   try {
     // Tenta encontrar o imóvel na lista e localizar seu arquivo
-    const lista = JSON.parse(storageGet('imoveis.json') || '{"imoveis":[]}')
+    const listaStr = await storageGet('imoveis.json')
+    const lista = JSON.parse(listaStr || '{"imoveis":[]}')
     const resumo = lista.imoveis?.find((i: any) => i.id === id)
 
     if (!resumo) {
@@ -24,7 +25,7 @@ export async function GET(
     const tipo = resumo.tipo
     const cat = resumo.cat
     const caminho = `imoveis/${tipo}/${cat}/${id}.json`
-    const conteudo = storageGet(caminho)
+    const conteudo = await storageGet(caminho)
 
     if (!conteudo) {
       return NextResponse.json({ erro: 'Imóvel não encontrado' }, { status: 404 })
